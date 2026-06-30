@@ -3,7 +3,8 @@
 ### AI-Powered Enterprise Port Scanner & Network Security Assessment Platform
 An enterprise-grade AI-powered cybersecurity tool for intelligent network scanning, attack surface analysis, vulnerability assessment, threat intelligence, and professional security reporting.
 
-<img width="1536" height="1024" alt="banner1" src="https://github.com/user-attachments/assets/63753b10-9849-47e7-82b5-594bf89a8fb2" />
+<img width="1536" height="1024" alt="ChatGPT Image Jun 30, 2026, 02_18_34 PM" src="https://github.com/user-attachments/assets/5bc92d14-349d-40be-aaae-ca2afb27dfa1" />
+
 
 <img width="1920" height="1080" alt="Screenshot (271)" src="https://github.com/user-attachments/assets/01625771-4ff9-4ab3-863f-f245b96cd564" />
 <img width="1920" height="1080" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/29b5bbee-dc6e-403d-bbbc-281a00bac2d5" />
@@ -81,7 +82,8 @@ to generate enterprise-level security reports.
 ### Banner Intelligence
 
 
-<img width="1536" height="1024" alt="banner1" src="https://github.com/user-attachments/assets/76d3de95-0739-4c73-8733-b2b2e54aa487" />
+<img width="1536" height="1024" alt="ChatGPT Image Jun 30, 2026, 02_18_34 PM" src="https://github.com/user-attachments/assets/1bad25b9-96c2-45a6-99de-f465b6699b19" />
+
 
 
 
